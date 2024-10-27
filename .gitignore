@@ -1,0 +1,6 @@
+#Ignore node Modules File
+node_modules/
+#Ignore .env file
+.env
+#igmnore planning file
+planning.txt
